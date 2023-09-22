@@ -38,3 +38,4 @@ function kitty-cat() {
 
 alias cat=kitty-cat
 
+alias ssh='kitty +kitten ssh'
