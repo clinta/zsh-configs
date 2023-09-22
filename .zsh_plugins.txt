@@ -1,0 +1,16 @@
+#romkatv/powerlevel10k kind:fpath
+romkatv/powerlevel10k
+zsh-users/zsh-completions
+zsh-users/zsh-autosuggestions
+zdharma-continuum/fast-syntax-highlighting
+
+belak/zsh-utils path:editor
+belak/zsh-utils path:history
+belak/zsh-utils path:prompt
+belak/zsh-utils path:utility
+belak/zsh-utils path:completion
+
+ohmyzsh/ohmyzsh path:plugins/command-not-found
+joshskidmore/zsh-fzf-history-search
+
+olets/zsh-window-title
